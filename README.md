@@ -12,6 +12,10 @@
 
 *MENTOR* : NEELA SANTHOSH KUMAR 
 
-![Image](https://github.com/user-attachments/assets/df5fd7ff-005e-4667-87d7-cb6007acfbbb)
+Groovy script in Jenkins
 
 ![Image](https://github.com/user-attachments/assets/68feda62-7bd8-49bc-84e9-b464094219ec)
+
+Stage view after building the job
+
+![Image](https://github.com/user-attachments/assets/df5fd7ff-005e-4667-87d7-cb6007acfbbb)
